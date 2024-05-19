@@ -59,7 +59,9 @@ dependencies {
     implementation("pl.droidsonroids.gif:android-gif-drawable:1.2.22")
     implementation("com.google.android.gms:play-services-auth:21.1.1")
     implementation("com.google.firebase:firebase-auth")
-
+    implementation ("com.squareup.picasso:picasso:2.71828")
+    implementation ("androidx.recyclerview:recyclerview:1.2.1")
+    implementation ("androidx.viewpager2:viewpager2:1.0.0")
 
     ;
     implementation(kotlin("script-runtime"))
